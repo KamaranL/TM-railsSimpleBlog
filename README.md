@@ -1,24 +1,8 @@
-# README
+# Traversy Media: Ruby On Rails In 60 Minutes #
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My version of the SimpleBlog application that Brad Traversy did on his channel.
 
-Things you may want to cover:
+---
+Author: [Brad Traversy](https://github.com/bradtraversy)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Video: [Ruby On Rails In 60 Minutes](https://youtu.be/pPy0GQJLZUM)
